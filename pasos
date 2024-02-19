@@ -1,0 +1,23 @@
+crear repositrio
+
+git init
+
+git add .
+
+git commit -m 'ejercicio para correjir'
+
+git branch -M main
+
+git git remote add origin https://github.com/Drazz1/zona-tarea..git desu repo
+
+git push -u origin main
+
+
+
+para actualizar:
+
+git add .
+
+git commit -m 'cambio x'
+
+git push
